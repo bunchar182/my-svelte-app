@@ -35,7 +35,7 @@
 
 <!-- แถบเมนูด้านบน (Navbar) -->
 <nav class="navbar">
-  <div class="logo">KIDS<span>MART</span></div>
+  <div class="logo">ARIGATO KIDS<span>SHOP</span></div>
   <div class="nav-links">
     <a href="#home">หน้าแรก</a>
     <a href="#shop">สินค้าทั้งหมด</a>
